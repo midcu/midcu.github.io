@@ -1,0 +1,1 @@
+(self.webpackChunkva_auth_main=self.webpackChunkva_auth_main||[]).push([[777],{4279:(e,u,a)=>{"use strict";a.r(u),a.d(u,{default:()=>t});var n=(0,a(1900).Z)({name:"va-layout",render:function(e){return e("router-view")}},void 0,void 0,!1,null,null,null);n.options.__file="src/auth/views/pages/layout.vue";const t=n.exports}}]);
